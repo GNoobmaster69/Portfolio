@@ -55,7 +55,8 @@ button{
     padding: 9px 25px;
 }
 
-nav li a:hover{
+nav li a:hover,
+nav li a.active{
     color:#fd5e53;
     transition: all 0.4s ease 0s;
 }
